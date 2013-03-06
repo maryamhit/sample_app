@@ -1,8 +1,9 @@
 <div class="center hero-unit">
 <%= link_to image_tag("673589.png", alt: "Rails"), 'http://maryamhit2.herokuapp.com/' %>
   </body>
+background-image: image-url('assets/06_1024x768.jpg');
 </html>
-<body background="06_1024x768.jpg">
+
   <h1>Welcome to the Sample App</h1>
 
   <h2>
