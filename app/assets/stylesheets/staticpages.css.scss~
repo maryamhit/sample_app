@@ -3,9 +3,6 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 
-.icon{
-    background:image-url("06_1024x768.jpg") no-repeat -36px -373px;
-  }
 
 body {
 background: url(/images/06_1024x768.jpg);
